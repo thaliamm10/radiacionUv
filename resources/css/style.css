@@ -1,0 +1,16 @@
+#table {
+    height: 600px;
+}
+
+thead {
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    background-color: #5c636a;
+    color: white;
+}
+
+tbody {
+    margin-top: 80px;
+    z-index: 1;
+}
